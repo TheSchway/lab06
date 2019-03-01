@@ -4,7 +4,7 @@
 
 	<nav>
 		<ul>
-			<li><a href="http://csc174.org/assignment02/queens/index.php">Original Website</a></li>
+			<li><a href="http://csc174.org/assignment02/queens/index.php" target=blank>Original Website</a></li>
 		</ul>
 	</nav>
 
